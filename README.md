@@ -1,1 +1,1 @@
-# WeatherApp
+Simple dynamic weather application
